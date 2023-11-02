@@ -1,0 +1,1 @@
+words=['arroz','feijao','carne','macarrao','abacate','uva','melancia','pera','acucar','abacaxi','laranja','acerola','mandioca','alface','tomate']
